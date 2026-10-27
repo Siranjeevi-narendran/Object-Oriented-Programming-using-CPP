@@ -1,0 +1,3 @@
+Area of Circle: 153.86
+Area of Rectangle: 72
+Area of Triangle: 37.5
