@@ -1,0 +1,11 @@
+Student Grade Analyzer
+---------------------
+Name    Mark    Grade
+Arjun   99      A
+charu   90      A
+Banu    78      B
+divesh  50      C
+
+First student scoring above 80: Arjun
+Total Marks: 317
+Average Mark: 79.25
